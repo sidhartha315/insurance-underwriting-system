@@ -1,0 +1,6 @@
+id,name,factor_type,multiplier,description
+RSK-001,High Risk Location,Location,1.5,Applicant lives in a high-risk area
+RSK-002,Low Risk Location,Location,0.9,Applicant lives in a low-risk area
+RSK-003,High Asset Value,Asset,1.3,Insured asset has high value
+RSK-004,Previous Claims,Claims,1.4,Applicant has previous claims
+RSK-005,Low Risk Profile,Profile,0.95,Applicant has a low-risk profile

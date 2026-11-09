@@ -1,0 +1,44 @@
+[
+    {
+        "id": "COV-001",
+        "product_id": "PRD-001",
+        "name": "Basic Motor Cover",
+        "coverage_limit": 500000.0,
+        "additional_rate": 0.01
+    },
+    {
+        "id": "COV-002",
+        "product_id": "PRD-001",
+        "name": "Premium Motor Cover",
+        "coverage_limit": 2000000.0,
+        "additional_rate": 0.02
+    },
+    {
+        "id": "COV-003",
+        "product_id": "PRD-002",
+        "name": "Basic Property Cover",
+        "coverage_limit": 5000000.0,
+        "additional_rate": 0.01
+    },
+    {
+        "id": "COV-004",
+        "product_id": "PRD-002",
+        "name": "Premium Property Cover",
+        "coverage_limit": 10000000.0,
+        "additional_rate": 0.02
+    },
+    {
+        "id": "COV-005",
+        "product_id": "PRD-003",
+        "name": "Basic Life Cover",
+        "coverage_limit": 2000000.0,
+        "additional_rate": 0.01
+    },
+    {
+        "id": "COV-006",
+        "product_id": "PRD-003",
+        "name": "Premium Life Cover",
+        "coverage_limit": 5000000.0,
+        "additional_rate": 0.02
+    }
+]

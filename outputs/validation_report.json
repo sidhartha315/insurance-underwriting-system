@@ -1,0 +1,97 @@
+[
+    {
+        "check": "Applicants record count",
+        "status": "PASS",
+        "details": "3000 records"
+    },
+    {
+        "check": "Insured Assets record count",
+        "status": "PASS",
+        "details": "3000 records"
+    },
+    {
+        "check": "Products record count",
+        "status": "PASS",
+        "details": "3 records"
+    },
+    {
+        "check": "Coverage Options record count",
+        "status": "PASS",
+        "details": "6 records"
+    },
+    {
+        "check": "Risk Factors record count",
+        "status": "PASS",
+        "details": "5 records"
+    },
+    {
+        "check": "Quotes record count",
+        "status": "PASS",
+        "details": "4000 records"
+    },
+    {
+        "check": "Policies record count",
+        "status": "PASS",
+        "details": "2000 records"
+    },
+    {
+        "check": "Endorsements record count",
+        "status": "PASS",
+        "details": "200 records"
+    },
+    {
+        "check": "Renewals record count",
+        "status": "PASS",
+        "details": "1200 records"
+    },
+    {
+        "check": "Underwriting Decisions record count",
+        "status": "PASS",
+        "details": "4000 records"
+    },
+    {
+        "check": "Policy Events record count",
+        "status": "PASS",
+        "details": "2000 records"
+    },
+    {
+        "check": "Applicant ID uniqueness",
+        "status": "PASS",
+        "details": "3000 records checked"
+    },
+    {
+        "check": "Quote ID uniqueness",
+        "status": "PASS",
+        "details": "4000 records checked"
+    },
+    {
+        "check": "Policy ID uniqueness",
+        "status": "PASS",
+        "details": "2000 records checked"
+    },
+    {
+        "check": "Quote foreign keys",
+        "status": "PASS",
+        "details": "0 invalid quotes"
+    },
+    {
+        "check": "Policy acceptance and payment",
+        "status": "PASS",
+        "details": "Expected: 1, unexpected: 0, not detected: 0"
+    },
+    {
+        "check": "Policy premium consistency",
+        "status": "PASS",
+        "details": "Expected: 1, unexpected: 0, not detected: 0"
+    },
+    {
+        "check": "Policy date validity",
+        "status": "PASS",
+        "details": "0 invalid policy periods"
+    },
+    {
+        "check": "Ground truth records",
+        "status": "PASS",
+        "details": "5 labelled anomalies"
+    }
+]

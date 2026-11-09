@@ -1,0 +1,37 @@
+[
+    {
+        "anomaly_id": "ANM-001",
+        "entity_type": "Policy",
+        "entity_id": "POL-2026-000001",
+        "issue_type": "POLICY_WITHOUT_ACCEPTANCE",
+        "description": "Policy issued without customer acceptance."
+    },
+    {
+        "anomaly_id": "ANM-002",
+        "entity_type": "Policy",
+        "entity_id": "POL-2026-000002",
+        "issue_type": "PREMIUM_OUTSIDE_FORMULA",
+        "description": "Policy premium differs from calculated quote premium."
+    },
+    {
+        "anomaly_id": "ANM-003",
+        "entity_type": "Endorsement",
+        "entity_id": "END-POL-2026-000001-001",
+        "issue_type": "ENDORSEMENT_LIMIT_EXCEEDED",
+        "description": "Endorsement value exceeds product maximum coverage."
+    },
+    {
+        "anomaly_id": "ANM-004",
+        "entity_type": "Renewal",
+        "entity_id": "REN-POL-2026-000001-2027",
+        "issue_type": "RENEWAL_FOR_CANCELLED_POLICY",
+        "description": "Renewal exists for a cancelled policy."
+    },
+    {
+        "anomaly_id": "ANM-005",
+        "entity_type": "Policy",
+        "entity_id": "POL-2026-000004",
+        "issue_type": "OVERLAPPING_POLICY_PERIOD",
+        "description": "Two policies for the same applicant, insured asset and product have overlapping periods."
+    }
+]

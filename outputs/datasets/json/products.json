@@ -1,0 +1,32 @@
+[
+    {
+        "id": "PRD-001",
+        "name": "Motor Insurance",
+        "product_line": "Motor",
+        "base_rate": 0.05,
+        "min_age": 18,
+        "max_age": 80,
+        "max_coverage": 2000000.0,
+        "active": 1
+    },
+    {
+        "id": "PRD-002",
+        "name": "Property Insurance",
+        "product_line": "Property",
+        "base_rate": 0.03,
+        "min_age": 21,
+        "max_age": 80,
+        "max_coverage": 10000000.0,
+        "active": 1
+    },
+    {
+        "id": "PRD-003",
+        "name": "Life Insurance",
+        "product_line": "Life",
+        "base_rate": 0.02,
+        "min_age": 18,
+        "max_age": 65,
+        "max_coverage": 5000000.0,
+        "active": 1
+    }
+]

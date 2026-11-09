@@ -1,0 +1,7 @@
+id,product_id,name,coverage_limit,additional_rate
+COV-001,PRD-001,Basic Motor Cover,500000.0,0.01
+COV-002,PRD-001,Premium Motor Cover,2000000.0,0.02
+COV-003,PRD-002,Basic Property Cover,5000000.0,0.01
+COV-004,PRD-002,Premium Property Cover,10000000.0,0.02
+COV-005,PRD-003,Basic Life Cover,2000000.0,0.01
+COV-006,PRD-003,Premium Life Cover,5000000.0,0.02

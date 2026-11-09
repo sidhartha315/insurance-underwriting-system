@@ -1,0 +1,27 @@
+[
+    {
+        "entity_id":"POL-2026-000001",
+        "issue_type":"POLICY_WITHOUT_ACCEPTANCE",
+        "description":"Policy issued without acceptance or payment."
+    },
+    {
+        "entity_id":"POL-2026-000002",
+        "issue_type":"PREMIUM_MISMATCH",
+        "description":"Policy premium differs from quote premium."
+    },
+    {
+        "entity_id":"END-POL-2026-000001-001",
+        "issue_type":"ENDORSEMENT_LIMIT_EXCEEDED",
+        "description":"Endorsement exceeds product maximum coverage."
+    },
+    {
+        "entity_id":"REN-POL-2026-000001-2027",
+        "issue_type":"RENEWAL_FOR_CANCELLED_POLICY",
+        "description":"Renewal exists for a cancelled policy."
+    },
+    {
+        "entity_id":"POL-2026-000004",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "description":"Overlapping policies for the same applicant, insured asset and product."
+    }
+]

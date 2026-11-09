@@ -1,0 +1,1602 @@
+[
+    {
+        "id": "END-POL-2026-000001-001",
+        "policy_id": "POL-2026-000001",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 2100000.0,
+        "created_at": "2026-11-09 05:42:11.150654"
+    },
+    {
+        "id": "END-POL-2026-000002-001",
+        "policy_id": "POL-2026-000002",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150660"
+    },
+    {
+        "id": "END-POL-2026-000003-001",
+        "policy_id": "POL-2026-000003",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150663"
+    },
+    {
+        "id": "END-POL-2026-000004-001",
+        "policy_id": "POL-2026-000004",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150666"
+    },
+    {
+        "id": "END-POL-2026-000005-001",
+        "policy_id": "POL-2026-000005",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150669"
+    },
+    {
+        "id": "END-POL-2026-000006-001",
+        "policy_id": "POL-2026-000006",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150671"
+    },
+    {
+        "id": "END-POL-2026-000007-001",
+        "policy_id": "POL-2026-000007",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150673"
+    },
+    {
+        "id": "END-POL-2026-000008-001",
+        "policy_id": "POL-2026-000008",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150675"
+    },
+    {
+        "id": "END-POL-2026-000009-001",
+        "policy_id": "POL-2026-000009",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150678"
+    },
+    {
+        "id": "END-POL-2026-000010-001",
+        "policy_id": "POL-2026-000010",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150680"
+    },
+    {
+        "id": "END-POL-2026-000011-001",
+        "policy_id": "POL-2026-000011",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150682"
+    },
+    {
+        "id": "END-POL-2026-000012-001",
+        "policy_id": "POL-2026-000012",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150684"
+    },
+    {
+        "id": "END-POL-2026-000013-001",
+        "policy_id": "POL-2026-000013",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150686"
+    },
+    {
+        "id": "END-POL-2026-000014-001",
+        "policy_id": "POL-2026-000014",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150688"
+    },
+    {
+        "id": "END-POL-2026-000015-001",
+        "policy_id": "POL-2026-000015",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150690"
+    },
+    {
+        "id": "END-POL-2026-000016-001",
+        "policy_id": "POL-2026-000016",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150697"
+    },
+    {
+        "id": "END-POL-2026-000017-001",
+        "policy_id": "POL-2026-000017",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150699"
+    },
+    {
+        "id": "END-POL-2026-000018-001",
+        "policy_id": "POL-2026-000018",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150702"
+    },
+    {
+        "id": "END-POL-2026-000019-001",
+        "policy_id": "POL-2026-000019",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150704"
+    },
+    {
+        "id": "END-POL-2026-000020-001",
+        "policy_id": "POL-2026-000020",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150706"
+    },
+    {
+        "id": "END-POL-2026-000021-001",
+        "policy_id": "POL-2026-000021",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150708"
+    },
+    {
+        "id": "END-POL-2026-000022-001",
+        "policy_id": "POL-2026-000022",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150710"
+    },
+    {
+        "id": "END-POL-2026-000023-001",
+        "policy_id": "POL-2026-000023",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150712"
+    },
+    {
+        "id": "END-POL-2026-000024-001",
+        "policy_id": "POL-2026-000024",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150714"
+    },
+    {
+        "id": "END-POL-2026-000025-001",
+        "policy_id": "POL-2026-000025",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150716"
+    },
+    {
+        "id": "END-POL-2026-000026-001",
+        "policy_id": "POL-2026-000026",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150718"
+    },
+    {
+        "id": "END-POL-2026-000027-001",
+        "policy_id": "POL-2026-000027",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150721"
+    },
+    {
+        "id": "END-POL-2026-000028-001",
+        "policy_id": "POL-2026-000028",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150723"
+    },
+    {
+        "id": "END-POL-2026-000029-001",
+        "policy_id": "POL-2026-000029",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150725"
+    },
+    {
+        "id": "END-POL-2026-000030-001",
+        "policy_id": "POL-2026-000030",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150727"
+    },
+    {
+        "id": "END-POL-2026-000031-001",
+        "policy_id": "POL-2026-000031",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150729"
+    },
+    {
+        "id": "END-POL-2026-000032-001",
+        "policy_id": "POL-2026-000032",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150731"
+    },
+    {
+        "id": "END-POL-2026-000033-001",
+        "policy_id": "POL-2026-000033",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150733"
+    },
+    {
+        "id": "END-POL-2026-000034-001",
+        "policy_id": "POL-2026-000034",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150735"
+    },
+    {
+        "id": "END-POL-2026-000035-001",
+        "policy_id": "POL-2026-000035",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150737"
+    },
+    {
+        "id": "END-POL-2026-000036-001",
+        "policy_id": "POL-2026-000036",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150739"
+    },
+    {
+        "id": "END-POL-2026-000037-001",
+        "policy_id": "POL-2026-000037",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150741"
+    },
+    {
+        "id": "END-POL-2026-000038-001",
+        "policy_id": "POL-2026-000038",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150743"
+    },
+    {
+        "id": "END-POL-2026-000039-001",
+        "policy_id": "POL-2026-000039",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150745"
+    },
+    {
+        "id": "END-POL-2026-000040-001",
+        "policy_id": "POL-2026-000040",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150748"
+    },
+    {
+        "id": "END-POL-2026-000041-001",
+        "policy_id": "POL-2026-000041",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150750"
+    },
+    {
+        "id": "END-POL-2026-000042-001",
+        "policy_id": "POL-2026-000042",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150752"
+    },
+    {
+        "id": "END-POL-2026-000043-001",
+        "policy_id": "POL-2026-000043",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150754"
+    },
+    {
+        "id": "END-POL-2026-000044-001",
+        "policy_id": "POL-2026-000044",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150756"
+    },
+    {
+        "id": "END-POL-2026-000045-001",
+        "policy_id": "POL-2026-000045",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150758"
+    },
+    {
+        "id": "END-POL-2026-000046-001",
+        "policy_id": "POL-2026-000046",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150760"
+    },
+    {
+        "id": "END-POL-2026-000047-001",
+        "policy_id": "POL-2026-000047",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150762"
+    },
+    {
+        "id": "END-POL-2026-000048-001",
+        "policy_id": "POL-2026-000048",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150764"
+    },
+    {
+        "id": "END-POL-2026-000049-001",
+        "policy_id": "POL-2026-000049",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150766"
+    },
+    {
+        "id": "END-POL-2026-000050-001",
+        "policy_id": "POL-2026-000050",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150768"
+    },
+    {
+        "id": "END-POL-2026-000051-001",
+        "policy_id": "POL-2026-000051",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150770"
+    },
+    {
+        "id": "END-POL-2026-000052-001",
+        "policy_id": "POL-2026-000052",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150772"
+    },
+    {
+        "id": "END-POL-2026-000053-001",
+        "policy_id": "POL-2026-000053",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150774"
+    },
+    {
+        "id": "END-POL-2026-000054-001",
+        "policy_id": "POL-2026-000054",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150777"
+    },
+    {
+        "id": "END-POL-2026-000055-001",
+        "policy_id": "POL-2026-000055",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150779"
+    },
+    {
+        "id": "END-POL-2026-000056-001",
+        "policy_id": "POL-2026-000056",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150781"
+    },
+    {
+        "id": "END-POL-2026-000057-001",
+        "policy_id": "POL-2026-000057",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150783"
+    },
+    {
+        "id": "END-POL-2026-000058-001",
+        "policy_id": "POL-2026-000058",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150785"
+    },
+    {
+        "id": "END-POL-2026-000059-001",
+        "policy_id": "POL-2026-000059",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150787"
+    },
+    {
+        "id": "END-POL-2026-000060-001",
+        "policy_id": "POL-2026-000060",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150789"
+    },
+    {
+        "id": "END-POL-2026-000061-001",
+        "policy_id": "POL-2026-000061",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150791"
+    },
+    {
+        "id": "END-POL-2026-000062-001",
+        "policy_id": "POL-2026-000062",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150793"
+    },
+    {
+        "id": "END-POL-2026-000063-001",
+        "policy_id": "POL-2026-000063",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150795"
+    },
+    {
+        "id": "END-POL-2026-000064-001",
+        "policy_id": "POL-2026-000064",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150797"
+    },
+    {
+        "id": "END-POL-2026-000065-001",
+        "policy_id": "POL-2026-000065",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150799"
+    },
+    {
+        "id": "END-POL-2026-000066-001",
+        "policy_id": "POL-2026-000066",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150802"
+    },
+    {
+        "id": "END-POL-2026-000067-001",
+        "policy_id": "POL-2026-000067",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150804"
+    },
+    {
+        "id": "END-POL-2026-000068-001",
+        "policy_id": "POL-2026-000068",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150806"
+    },
+    {
+        "id": "END-POL-2026-000069-001",
+        "policy_id": "POL-2026-000069",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150808"
+    },
+    {
+        "id": "END-POL-2026-000070-001",
+        "policy_id": "POL-2026-000070",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150810"
+    },
+    {
+        "id": "END-POL-2026-000071-001",
+        "policy_id": "POL-2026-000071",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150812"
+    },
+    {
+        "id": "END-POL-2026-000072-001",
+        "policy_id": "POL-2026-000072",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150814"
+    },
+    {
+        "id": "END-POL-2026-000073-001",
+        "policy_id": "POL-2026-000073",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150816"
+    },
+    {
+        "id": "END-POL-2026-000074-001",
+        "policy_id": "POL-2026-000074",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150818"
+    },
+    {
+        "id": "END-POL-2026-000075-001",
+        "policy_id": "POL-2026-000075",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150820"
+    },
+    {
+        "id": "END-POL-2026-000076-001",
+        "policy_id": "POL-2026-000076",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150822"
+    },
+    {
+        "id": "END-POL-2026-000077-001",
+        "policy_id": "POL-2026-000077",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150824"
+    },
+    {
+        "id": "END-POL-2026-000078-001",
+        "policy_id": "POL-2026-000078",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150826"
+    },
+    {
+        "id": "END-POL-2026-000079-001",
+        "policy_id": "POL-2026-000079",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150828"
+    },
+    {
+        "id": "END-POL-2026-000080-001",
+        "policy_id": "POL-2026-000080",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150831"
+    },
+    {
+        "id": "END-POL-2026-000081-001",
+        "policy_id": "POL-2026-000081",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150833"
+    },
+    {
+        "id": "END-POL-2026-000082-001",
+        "policy_id": "POL-2026-000082",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150835"
+    },
+    {
+        "id": "END-POL-2026-000083-001",
+        "policy_id": "POL-2026-000083",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150837"
+    },
+    {
+        "id": "END-POL-2026-000084-001",
+        "policy_id": "POL-2026-000084",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150839"
+    },
+    {
+        "id": "END-POL-2026-000085-001",
+        "policy_id": "POL-2026-000085",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150841"
+    },
+    {
+        "id": "END-POL-2026-000086-001",
+        "policy_id": "POL-2026-000086",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150843"
+    },
+    {
+        "id": "END-POL-2026-000087-001",
+        "policy_id": "POL-2026-000087",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150845"
+    },
+    {
+        "id": "END-POL-2026-000088-001",
+        "policy_id": "POL-2026-000088",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150847"
+    },
+    {
+        "id": "END-POL-2026-000089-001",
+        "policy_id": "POL-2026-000089",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150849"
+    },
+    {
+        "id": "END-POL-2026-000090-001",
+        "policy_id": "POL-2026-000090",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150851"
+    },
+    {
+        "id": "END-POL-2026-000091-001",
+        "policy_id": "POL-2026-000091",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150853"
+    },
+    {
+        "id": "END-POL-2026-000092-001",
+        "policy_id": "POL-2026-000092",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150855"
+    },
+    {
+        "id": "END-POL-2026-000093-001",
+        "policy_id": "POL-2026-000093",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150857"
+    },
+    {
+        "id": "END-POL-2026-000094-001",
+        "policy_id": "POL-2026-000094",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150859"
+    },
+    {
+        "id": "END-POL-2026-000095-001",
+        "policy_id": "POL-2026-000095",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150862"
+    },
+    {
+        "id": "END-POL-2026-000096-001",
+        "policy_id": "POL-2026-000096",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150864"
+    },
+    {
+        "id": "END-POL-2026-000097-001",
+        "policy_id": "POL-2026-000097",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150866"
+    },
+    {
+        "id": "END-POL-2026-000098-001",
+        "policy_id": "POL-2026-000098",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150868"
+    },
+    {
+        "id": "END-POL-2026-000099-001",
+        "policy_id": "POL-2026-000099",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150870"
+    },
+    {
+        "id": "END-POL-2026-000100-001",
+        "policy_id": "POL-2026-000100",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150872"
+    },
+    {
+        "id": "END-POL-2026-000101-001",
+        "policy_id": "POL-2026-000101",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150879"
+    },
+    {
+        "id": "END-POL-2026-000102-001",
+        "policy_id": "POL-2026-000102",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150882"
+    },
+    {
+        "id": "END-POL-2026-000103-001",
+        "policy_id": "POL-2026-000103",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150884"
+    },
+    {
+        "id": "END-POL-2026-000104-001",
+        "policy_id": "POL-2026-000104",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150886"
+    },
+    {
+        "id": "END-POL-2026-000105-001",
+        "policy_id": "POL-2026-000105",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150888"
+    },
+    {
+        "id": "END-POL-2026-000106-001",
+        "policy_id": "POL-2026-000106",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150890"
+    },
+    {
+        "id": "END-POL-2026-000107-001",
+        "policy_id": "POL-2026-000107",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150892"
+    },
+    {
+        "id": "END-POL-2026-000108-001",
+        "policy_id": "POL-2026-000108",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150894"
+    },
+    {
+        "id": "END-POL-2026-000109-001",
+        "policy_id": "POL-2026-000109",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150896"
+    },
+    {
+        "id": "END-POL-2026-000110-001",
+        "policy_id": "POL-2026-000110",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150898"
+    },
+    {
+        "id": "END-POL-2026-000111-001",
+        "policy_id": "POL-2026-000111",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150900"
+    },
+    {
+        "id": "END-POL-2026-000112-001",
+        "policy_id": "POL-2026-000112",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150903"
+    },
+    {
+        "id": "END-POL-2026-000113-001",
+        "policy_id": "POL-2026-000113",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150905"
+    },
+    {
+        "id": "END-POL-2026-000114-001",
+        "policy_id": "POL-2026-000114",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150907"
+    },
+    {
+        "id": "END-POL-2026-000115-001",
+        "policy_id": "POL-2026-000115",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150909"
+    },
+    {
+        "id": "END-POL-2026-000116-001",
+        "policy_id": "POL-2026-000116",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150911"
+    },
+    {
+        "id": "END-POL-2026-000117-001",
+        "policy_id": "POL-2026-000117",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150913"
+    },
+    {
+        "id": "END-POL-2026-000118-001",
+        "policy_id": "POL-2026-000118",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150915"
+    },
+    {
+        "id": "END-POL-2026-000119-001",
+        "policy_id": "POL-2026-000119",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150917"
+    },
+    {
+        "id": "END-POL-2026-000120-001",
+        "policy_id": "POL-2026-000120",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150919"
+    },
+    {
+        "id": "END-POL-2026-000121-001",
+        "policy_id": "POL-2026-000121",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150921"
+    },
+    {
+        "id": "END-POL-2026-000122-001",
+        "policy_id": "POL-2026-000122",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150923"
+    },
+    {
+        "id": "END-POL-2026-000123-001",
+        "policy_id": "POL-2026-000123",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150925"
+    },
+    {
+        "id": "END-POL-2026-000124-001",
+        "policy_id": "POL-2026-000124",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150928"
+    },
+    {
+        "id": "END-POL-2026-000125-001",
+        "policy_id": "POL-2026-000125",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150930"
+    },
+    {
+        "id": "END-POL-2026-000126-001",
+        "policy_id": "POL-2026-000126",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150932"
+    },
+    {
+        "id": "END-POL-2026-000127-001",
+        "policy_id": "POL-2026-000127",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150934"
+    },
+    {
+        "id": "END-POL-2026-000128-001",
+        "policy_id": "POL-2026-000128",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150936"
+    },
+    {
+        "id": "END-POL-2026-000129-001",
+        "policy_id": "POL-2026-000129",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150938"
+    },
+    {
+        "id": "END-POL-2026-000130-001",
+        "policy_id": "POL-2026-000130",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150940"
+    },
+    {
+        "id": "END-POL-2026-000131-001",
+        "policy_id": "POL-2026-000131",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150942"
+    },
+    {
+        "id": "END-POL-2026-000132-001",
+        "policy_id": "POL-2026-000132",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150944"
+    },
+    {
+        "id": "END-POL-2026-000133-001",
+        "policy_id": "POL-2026-000133",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150946"
+    },
+    {
+        "id": "END-POL-2026-000134-001",
+        "policy_id": "POL-2026-000134",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150948"
+    },
+    {
+        "id": "END-POL-2026-000135-001",
+        "policy_id": "POL-2026-000135",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150950"
+    },
+    {
+        "id": "END-POL-2026-000136-001",
+        "policy_id": "POL-2026-000136",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150952"
+    },
+    {
+        "id": "END-POL-2026-000137-001",
+        "policy_id": "POL-2026-000137",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150954"
+    },
+    {
+        "id": "END-POL-2026-000138-001",
+        "policy_id": "POL-2026-000138",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150956"
+    },
+    {
+        "id": "END-POL-2026-000139-001",
+        "policy_id": "POL-2026-000139",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150958"
+    },
+    {
+        "id": "END-POL-2026-000140-001",
+        "policy_id": "POL-2026-000140",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150961"
+    },
+    {
+        "id": "END-POL-2026-000141-001",
+        "policy_id": "POL-2026-000141",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150963"
+    },
+    {
+        "id": "END-POL-2026-000142-001",
+        "policy_id": "POL-2026-000142",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150965"
+    },
+    {
+        "id": "END-POL-2026-000143-001",
+        "policy_id": "POL-2026-000143",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150967"
+    },
+    {
+        "id": "END-POL-2026-000144-001",
+        "policy_id": "POL-2026-000144",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150969"
+    },
+    {
+        "id": "END-POL-2026-000145-001",
+        "policy_id": "POL-2026-000145",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150971"
+    },
+    {
+        "id": "END-POL-2026-000146-001",
+        "policy_id": "POL-2026-000146",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150973"
+    },
+    {
+        "id": "END-POL-2026-000147-001",
+        "policy_id": "POL-2026-000147",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150975"
+    },
+    {
+        "id": "END-POL-2026-000148-001",
+        "policy_id": "POL-2026-000148",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150977"
+    },
+    {
+        "id": "END-POL-2026-000149-001",
+        "policy_id": "POL-2026-000149",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150979"
+    },
+    {
+        "id": "END-POL-2026-000150-001",
+        "policy_id": "POL-2026-000150",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150981"
+    },
+    {
+        "id": "END-POL-2026-000151-001",
+        "policy_id": "POL-2026-000151",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150983"
+    },
+    {
+        "id": "END-POL-2026-000152-001",
+        "policy_id": "POL-2026-000152",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150985"
+    },
+    {
+        "id": "END-POL-2026-000153-001",
+        "policy_id": "POL-2026-000153",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150987"
+    },
+    {
+        "id": "END-POL-2026-000154-001",
+        "policy_id": "POL-2026-000154",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150989"
+    },
+    {
+        "id": "END-POL-2026-000155-001",
+        "policy_id": "POL-2026-000155",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150992"
+    },
+    {
+        "id": "END-POL-2026-000156-001",
+        "policy_id": "POL-2026-000156",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150994"
+    },
+    {
+        "id": "END-POL-2026-000157-001",
+        "policy_id": "POL-2026-000157",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150996"
+    },
+    {
+        "id": "END-POL-2026-000158-001",
+        "policy_id": "POL-2026-000158",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.150998"
+    },
+    {
+        "id": "END-POL-2026-000159-001",
+        "policy_id": "POL-2026-000159",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.151000"
+    },
+    {
+        "id": "END-POL-2026-000160-001",
+        "policy_id": "POL-2026-000160",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.151002"
+    },
+    {
+        "id": "END-POL-2026-000161-001",
+        "policy_id": "POL-2026-000161",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.151004"
+    },
+    {
+        "id": "END-POL-2026-000162-001",
+        "policy_id": "POL-2026-000162",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.151006"
+    },
+    {
+        "id": "END-POL-2026-000163-001",
+        "policy_id": "POL-2026-000163",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.151008"
+    },
+    {
+        "id": "END-POL-2026-000164-001",
+        "policy_id": "POL-2026-000164",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.151010"
+    },
+    {
+        "id": "END-POL-2026-000165-001",
+        "policy_id": "POL-2026-000165",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.151012"
+    },
+    {
+        "id": "END-POL-2026-000166-001",
+        "policy_id": "POL-2026-000166",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.151014"
+    },
+    {
+        "id": "END-POL-2026-000167-001",
+        "policy_id": "POL-2026-000167",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.151016"
+    },
+    {
+        "id": "END-POL-2026-000168-001",
+        "policy_id": "POL-2026-000168",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.151019"
+    },
+    {
+        "id": "END-POL-2026-000169-001",
+        "policy_id": "POL-2026-000169",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.151021"
+    },
+    {
+        "id": "END-POL-2026-000170-001",
+        "policy_id": "POL-2026-000170",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.151023"
+    },
+    {
+        "id": "END-POL-2026-000171-001",
+        "policy_id": "POL-2026-000171",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.151025"
+    },
+    {
+        "id": "END-POL-2026-000172-001",
+        "policy_id": "POL-2026-000172",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.151027"
+    },
+    {
+        "id": "END-POL-2026-000173-001",
+        "policy_id": "POL-2026-000173",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.151029"
+    },
+    {
+        "id": "END-POL-2026-000174-001",
+        "policy_id": "POL-2026-000174",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.151031"
+    },
+    {
+        "id": "END-POL-2026-000175-001",
+        "policy_id": "POL-2026-000175",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.151033"
+    },
+    {
+        "id": "END-POL-2026-000176-001",
+        "policy_id": "POL-2026-000176",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.151035"
+    },
+    {
+        "id": "END-POL-2026-000177-001",
+        "policy_id": "POL-2026-000177",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.151037"
+    },
+    {
+        "id": "END-POL-2026-000178-001",
+        "policy_id": "POL-2026-000178",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.151039"
+    },
+    {
+        "id": "END-POL-2026-000179-001",
+        "policy_id": "POL-2026-000179",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.151041"
+    },
+    {
+        "id": "END-POL-2026-000180-001",
+        "policy_id": "POL-2026-000180",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.151043"
+    },
+    {
+        "id": "END-POL-2026-000181-001",
+        "policy_id": "POL-2026-000181",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.151045"
+    },
+    {
+        "id": "END-POL-2026-000182-001",
+        "policy_id": "POL-2026-000182",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.151047"
+    },
+    {
+        "id": "END-POL-2026-000183-001",
+        "policy_id": "POL-2026-000183",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.151049"
+    },
+    {
+        "id": "END-POL-2026-000184-001",
+        "policy_id": "POL-2026-000184",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.151051"
+    },
+    {
+        "id": "END-POL-2026-000185-001",
+        "policy_id": "POL-2026-000185",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.151054"
+    },
+    {
+        "id": "END-POL-2026-000186-001",
+        "policy_id": "POL-2026-000186",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.151060"
+    },
+    {
+        "id": "END-POL-2026-000187-001",
+        "policy_id": "POL-2026-000187",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.151062"
+    },
+    {
+        "id": "END-POL-2026-000188-001",
+        "policy_id": "POL-2026-000188",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.151064"
+    },
+    {
+        "id": "END-POL-2026-000189-001",
+        "policy_id": "POL-2026-000189",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.151067"
+    },
+    {
+        "id": "END-POL-2026-000190-001",
+        "policy_id": "POL-2026-000190",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.151069"
+    },
+    {
+        "id": "END-POL-2026-000191-001",
+        "policy_id": "POL-2026-000191",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.151071"
+    },
+    {
+        "id": "END-POL-2026-000192-001",
+        "policy_id": "POL-2026-000192",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.151073"
+    },
+    {
+        "id": "END-POL-2026-000193-001",
+        "policy_id": "POL-2026-000193",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.151075"
+    },
+    {
+        "id": "END-POL-2026-000194-001",
+        "policy_id": "POL-2026-000194",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.151077"
+    },
+    {
+        "id": "END-POL-2026-000195-001",
+        "policy_id": "POL-2026-000195",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.151079"
+    },
+    {
+        "id": "END-POL-2026-000196-001",
+        "policy_id": "POL-2026-000196",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.151081"
+    },
+    {
+        "id": "END-POL-2026-000197-001",
+        "policy_id": "POL-2026-000197",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.151083"
+    },
+    {
+        "id": "END-POL-2026-000198-001",
+        "policy_id": "POL-2026-000198",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.151085"
+    },
+    {
+        "id": "END-POL-2026-000199-001",
+        "policy_id": "POL-2026-000199",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.151087"
+    },
+    {
+        "id": "END-POL-2026-000200-001",
+        "policy_id": "POL-2026-000200",
+        "change_type": "ASSET_VALUE_UPDATE",
+        "old_value": 100000.0,
+        "new_value": 110000.0,
+        "created_at": "2026-11-09 05:42:11.151089"
+    }
+]

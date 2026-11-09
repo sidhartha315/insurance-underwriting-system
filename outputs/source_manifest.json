@@ -1,0 +1,176 @@
+{
+    "project": "Insurance Underwriting System",
+    "version": "1.0",
+    "generated_at_utc": "2026-11-09T05:56:37.039859+00:00",
+    "random_seed": 20261022,
+    "data_provenance": {
+        "type": "synthetic",
+        "external_datasets_used": false,
+        "description": "Data generated programmatically for an insurance underwriting workflow challenge."
+    },
+    "source_files": [
+        {
+            "path": "src/generators/master_data.py",
+            "sha256": "893422b338dde970f90d8caacfacf628b07d8dde25340344584967684f715c9f"
+        },
+        {
+            "path": "src/generators/transaction_data.py",
+            "sha256": "b85ab7e51e52e5f5eeb5b17917c9cc66e683c2c8e005bce5af72727478db2718"
+        },
+        {
+            "path": "src/services/premium.py",
+            "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+            "path": "src/services/underwriting.py",
+            "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+            "path": "src/anomaly/inject_anomalies.py",
+            "sha256": "b3112ad983ea9ab312a9092de9849426d27aaa3f37e76149bf00eeb0e2684b35"
+        },
+        {
+            "path": "src/anomaly/evaluate_anomalies.py",
+            "sha256": "23672726dd770f5a5eb529b99900d22acc1d4bd5fa3ca5248509134996ad0ad9"
+        },
+        {
+            "path": "src/validation/checks.py",
+            "sha256": "69feadde45d699b7e1e5f0dfc13522d865772a72040db77a117b37bfd5ca3152"
+        },
+        {
+            "path": "src/validation/anomaly_detector.py",
+            "sha256": "f153b919a52f32661baf0da201db998ed785e5c634d7b35b552b17778aee5a32"
+        },
+        {
+            "path": "src/database/models.py",
+            "sha256": "1b0224833d9404b4d29f16e1cd9ce201d9bba20cb7864c1acecb35c553b0a5ed"
+        }
+    ],
+    "exports": [
+        {
+            "path": "outputs\\datasets\\csv\\applicant_risk_factors.csv",
+            "size_bytes": 74879,
+            "sha256": "19f6703a06935d10731fe0a7161061ca242278db47e531dc62a0d1b60957ab4c"
+        },
+        {
+            "path": "outputs\\datasets\\csv\\applicants.csv",
+            "size_bytes": 240212,
+            "sha256": "fcb4a41ebd9ad136a2f259ad381992ad53c0bff94bcd65a459eec89554a2f2a5"
+        },
+        {
+            "path": "outputs\\datasets\\csv\\coverage_options.csv",
+            "size_bytes": 361,
+            "sha256": "7acb56587f6284e03f40a759d614ccce9edb134e974aeffd5b0e8c2c178082f1"
+        },
+        {
+            "path": "outputs\\datasets\\csv\\endorsements.csv",
+            "size_bytes": 21058,
+            "sha256": "863eb9f408e1de06d08f08add11065ca75dbcbaa2aec0be88de28c85dfe1a6d3"
+        },
+        {
+            "path": "outputs\\datasets\\csv\\insured_assets.csv",
+            "size_bytes": 183179,
+            "sha256": "4125cc7333be4c409d2c9321d321272527d89f3e7be76d46cbcb92c153e0b131"
+        },
+        {
+            "path": "outputs\\datasets\\csv\\policies.csv",
+            "size_bytes": 182554,
+            "sha256": "400b854dee6915159681d4503e95864671cbf13872e868daf8e7e5da7f2c1875"
+        },
+        {
+            "path": "outputs\\datasets\\csv\\policy_events.csv",
+            "size_bytes": 152956,
+            "sha256": "06220050cc0a410a0d02730c656aa9a4318ae74dbe53913459378bed03c6965b"
+        },
+        {
+            "path": "outputs\\datasets\\csv\\products.csv",
+            "size_bytes": 235,
+            "sha256": "9e99808c70a535c2250f2d09fa00886d06205f88cc4c85e938c059e73dd09d94"
+        },
+        {
+            "path": "outputs\\datasets\\csv\\quotes.csv",
+            "size_bytes": 451472,
+            "sha256": "222c2f1647f91610c4ecf26239f69a4e0af9dd963c948ec3f258012a6b713c2e"
+        },
+        {
+            "path": "outputs\\datasets\\csv\\renewals.csv",
+            "size_bytes": 85113,
+            "sha256": "0d3e28ed8616ced2b539ad20859e1ec9383112bc45b803b1d958f1e5d26753ab"
+        },
+        {
+            "path": "outputs\\datasets\\csv\\risk_factors.csv",
+            "size_bytes": 399,
+            "sha256": "458b29475c4ead263dc9ed5a498620743dcf7a69bd92c9598782d1901b5540e3"
+        },
+        {
+            "path": "outputs\\datasets\\csv\\underwriting_decisions.csv",
+            "size_bytes": 535640,
+            "sha256": "4a14b1ed1f0db985ee1a626e8af76487c821652ac62c18264401b3e8a0d1dfe8"
+        },
+        {
+            "path": "outputs\\datasets\\json\\applicant_risk_factors.json",
+            "size_bytes": 287427,
+            "sha256": "617eec4d5a02fa61feb975b1538dc76cd4fb3a757219237403dbbb904996e1a2"
+        },
+        {
+            "path": "outputs\\datasets\\json\\applicants.json",
+            "size_bytes": 654175,
+            "sha256": "1bb3c5b631c7f4a25bd6f872a9ae0be0f8b3a5242c7333ba8cdc5e592e97be5a"
+        },
+        {
+            "path": "outputs\\datasets\\json\\coverage_options.json",
+            "size_bytes": 1117,
+            "sha256": "e9af94491e3d4703572c86f4003b615cb9b85225dc990f2f4acc4be8f0218755"
+        },
+        {
+            "path": "outputs\\datasets\\json\\endorsements.json",
+            "size_bytes": 52004,
+            "sha256": "86ed55a6b28a9abc96b91266c7d936dbf43ad00f3ae1eecf43cbdcaaed88fc06"
+        },
+        {
+            "path": "outputs\\datasets\\json\\insured_assets.json",
+            "size_bytes": 585133,
+            "sha256": "f815f8bdce49f9a3ebbd51f64ed650efdf0ba5773676b1d7c69015ba2ebef5f0"
+        },
+        {
+            "path": "outputs\\datasets\\json\\policies.json",
+            "size_bytes": 638470,
+            "sha256": "a69a3e4389932faf812a2379ce85c7371867a404a2bee29cb034c18c46eb9a4a"
+        },
+        {
+            "path": "outputs\\datasets\\json\\policy_events.json",
+            "size_bytes": 478896,
+            "sha256": "7ae619a00547f778cc9df7e4ac393c4400bc56c095aeca408130a660621b26ba"
+        },
+        {
+            "path": "outputs\\datasets\\json\\products.json",
+            "size_bytes": 740,
+            "sha256": "0781b16796c7d30bc26f542a1df81d43170552615c368cab50580f4665fbea00"
+        },
+        {
+            "path": "outputs\\datasets\\json\\quotes.json",
+            "size_bytes": 1323385,
+            "sha256": "46eb978fcc194823085c3fe2f1b47b9551a3006443d3f5593ec6ee1915eb2bd4"
+        },
+        {
+            "path": "outputs\\datasets\\json\\renewals.json",
+            "size_bytes": 247066,
+            "sha256": "fad61cb8d994194e5f18bc6759da43c48289a6eba78fab83239dd8f42cc3914d"
+        },
+        {
+            "path": "outputs\\datasets\\json\\risk_factors.json",
+            "size_bytes": 1003,
+            "sha256": "a3f3e17b78042bdf47edcee9e563b0848b04174c7459ed1a23a9d9e8585c8a33"
+        },
+        {
+            "path": "outputs\\datasets\\json\\underwriting_decisions.json",
+            "size_bytes": 1235583,
+            "sha256": "a8392ff755fc16e311b3bfe9f7fd40770424509d2b92de27af9a3e4ca424526d"
+        },
+        {
+            "path": "outputs\\datasets\\sql\\insurance_seed.sql",
+            "size_bytes": 2983444,
+            "sha256": "4a9f21a64aac2e58d20d399bd53d8c99cbc79c7bfe340cba2c7ce595fdd337c9"
+        }
+    ]
+}

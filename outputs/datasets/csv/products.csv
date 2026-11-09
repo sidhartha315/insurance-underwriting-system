@@ -1,0 +1,4 @@
+id,name,product_line,base_rate,min_age,max_age,max_coverage,active
+PRD-001,Motor Insurance,Motor,0.05,18,80,2000000.0,1
+PRD-002,Property Insurance,Property,0.03,21,80,10000000.0,1
+PRD-003,Life Insurance,Life,0.02,18,65,5000000.0,1

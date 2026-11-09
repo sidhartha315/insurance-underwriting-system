@@ -1,0 +1,20 @@
+check,status,details
+Applicants record count,PASS,3000 records
+Insured Assets record count,PASS,3000 records
+Products record count,PASS,3 records
+Coverage Options record count,PASS,6 records
+Risk Factors record count,PASS,5 records
+Quotes record count,PASS,4000 records
+Policies record count,PASS,2000 records
+Endorsements record count,PASS,200 records
+Renewals record count,PASS,1200 records
+Underwriting Decisions record count,PASS,4000 records
+Policy Events record count,PASS,2000 records
+Applicant ID uniqueness,PASS,3000 records checked
+Quote ID uniqueness,PASS,4000 records checked
+Policy ID uniqueness,PASS,2000 records checked
+Quote foreign keys,PASS,0 invalid quotes
+Policy acceptance and payment,PASS,"Expected: 1, unexpected: 0, not detected: 0"
+Policy premium consistency,PASS,"Expected: 1, unexpected: 0, not detected: 0"
+Policy date validity,PASS,0 invalid policy periods
+Ground truth records,PASS,5 labelled anomalies

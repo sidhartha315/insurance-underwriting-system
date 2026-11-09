@@ -1,0 +1,6 @@
+entity_id,issue_type,description
+POL-2026-000001,POLICY_WITHOUT_ACCEPTANCE,Policy issued without acceptance or payment.
+POL-2026-000002,PREMIUM_MISMATCH,Policy premium differs from quote premium.
+END-POL-2026-000001-001,ENDORSEMENT_LIMIT_EXCEEDED,Endorsement exceeds product maximum coverage.
+REN-POL-2026-000001-2027,RENEWAL_FOR_CANCELLED_POLICY,Renewal exists for a cancelled policy.
+POL-2026-000004,OVERLAPPING_POLICY_PERIOD,"Overlapping policies for the same applicant, insured asset and product."

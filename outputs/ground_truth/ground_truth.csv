@@ -1,0 +1,6 @@
+anomaly_id,entity_type,entity_id,issue_type,description
+ANM-001,Policy,POL-2026-000001,POLICY_WITHOUT_ACCEPTANCE,Policy issued without customer acceptance.
+ANM-002,Policy,POL-2026-000002,PREMIUM_OUTSIDE_FORMULA,Policy premium differs from calculated quote premium.
+ANM-003,Endorsement,END-POL-2026-000001-001,ENDORSEMENT_LIMIT_EXCEEDED,Endorsement value exceeds product maximum coverage.
+ANM-004,Renewal,REN-POL-2026-000001-2027,RENEWAL_FOR_CANCELLED_POLICY,Renewal exists for a cancelled policy.
+ANM-005,Policy,POL-2026-000004,OVERLAPPING_POLICY_PERIOD,"Two policies for the same applicant, insured asset and product have overlapping periods."

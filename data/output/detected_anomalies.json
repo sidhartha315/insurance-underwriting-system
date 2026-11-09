@@ -1,0 +1,5336 @@
+[
+    {
+        "record_id":"POL-2026-000001",
+        "issue_type":"POLICY_WITHOUT_ACCEPTANCE",
+        "ground_truth":"ANOMALY",
+        "description":"Policy issued without acceptance or payment"
+    },
+    {
+        "record_id":"POL-2026-000002",
+        "issue_type":"PREMIUM_MISMATCH",
+        "ground_truth":"ANOMALY",
+        "description":"Policy premium differs from quote premium"
+    },
+    {
+        "record_id":"END-POL-2026-000001-001",
+        "issue_type":"ENDORSEMENT_LIMIT_EXCEEDED",
+        "ground_truth":"ANOMALY",
+        "description":"Endorsement exceeds product coverage limit"
+    },
+    {
+        "record_id":"REN-POL-2026-000001-2027",
+        "issue_type":"RENEWAL_FOR_CANCELLED_POLICY",
+        "ground_truth":"ANOMALY",
+        "description":"Renewal generated for cancelled policy"
+    },
+    {
+        "record_id":"POL-2026-000212",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000004",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000442",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000129",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001904",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000803",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001990",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001826",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000010",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001577",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001021",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000013",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000014",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000805",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001251",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000888",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000732",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001032",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001127",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000978",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000059",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000021",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000022",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000737",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000334",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001913",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000023",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000256",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000025",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000474",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000028",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000030",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000600",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000064",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000033",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001771",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000035",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001015",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000209",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000595",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001242",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000037",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000039",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000412",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000830",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000042",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001166",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000855",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000045",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001452",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000216",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001535",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000050",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000384",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000052",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001193",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001926",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001784",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001973",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000060",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000061",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001638",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000429",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001935",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001989",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000302",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000065",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001190",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000066",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001077",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000829",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000950",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000069",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000925",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001358",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001974",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000071",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001900",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000074",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000942",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000075",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000487",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000630",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000724",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000792",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001240",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000080",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001683",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000081",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000831",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000849",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001400",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001441",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001730",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001096",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001243",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001959",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001128",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000091",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001794",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000092",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001492",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000093",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000779",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000894",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000533",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000165",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001354",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000101",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000565",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000103",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000399",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001600",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001543",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000107",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001998",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000960",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000312",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001687",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001403",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001016",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000112",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000660",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000114",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000598",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001631",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000173",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000116",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000480",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001991",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001267",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000133",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000861",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000425",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000120",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000123",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001500",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000970",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001435",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001121",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000126",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001110",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000127",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000511",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000131",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001725",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000132",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000134",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001519",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000135",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000424",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001810",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000865",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000136",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000137",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000705",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000240",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000139",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001468",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000406",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000141",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000142",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000174",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001740",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000144",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001888",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000147",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000889",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000444",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001472",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000151",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000188",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001083",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000153",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000568",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000155",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000163",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001938",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000159",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000419",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001823",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000472",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000161",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000497",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000162",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000222",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000870",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000199",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000167",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000168",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000231",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000169",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000170",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001054",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000175",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000177",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000179",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001309",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000180",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000496",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000181",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001115",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000186",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001993",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001756",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000952",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001586",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000196",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000197",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001698",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000202",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000303",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000566",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000203",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000204",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000205",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001651",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000210",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000748",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001846",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000418",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001429",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000548",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000332",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000214",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001674",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001090",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000794",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000217",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001604",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001880",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000394",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000817",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000422",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001858",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000900",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000220",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000223",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001684",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001467",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001427",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000226",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000227",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001104",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000228",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001507",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000230",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000250",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001699",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000790",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000235",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001161",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000237",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000242",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000244",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001105",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000945",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000245",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001398",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000415",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001781",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000449",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001002",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001560",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000337",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000537",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000628",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000252",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000253",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001199",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001909",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001152",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001919",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000263",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001510",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000265",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001529",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001486",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000267",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001043",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000933",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000269",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001068",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000270",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001333",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000271",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001212",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000272",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001389",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001561",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001692",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000276",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001126",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000278",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000838",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000280",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001480",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000281",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001454",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001892",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001197",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000285",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001905",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000286",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000333",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000288",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000340",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000490",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001460",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000292",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000531",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000965",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000293",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001903",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000295",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001210",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000296",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001004",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000700",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000299",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000300",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001832",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001255",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000841",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001681",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001265",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000313",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000306",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000768",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001805",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000503",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000309",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000498",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001391",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001440",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001346",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001656",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000423",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001936",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000944",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001976",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001252",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000755",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000456",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000325",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001728",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000329",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000518",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000331",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001887",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000754",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000338",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000342",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001373",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001742",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000674",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000346",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000983",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001078",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000350",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000793",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001007",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001450",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001153",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001342",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000859",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001163",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000687",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001705",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001340",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000359",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001908",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000360",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001768",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000656",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001899",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000365",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000744",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000367",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000368",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000372",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000569",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000376",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001745",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000880",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000377",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000378",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000404",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001141",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000699",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001144",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001946",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001688",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000386",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000742",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000892",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001828",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000391",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000393",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000395",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000396",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000824",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001018",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001357",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000397",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001603",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000621",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001570",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000403",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001125",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000407",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000408",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001139",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001978",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001205",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000411",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000413",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000735",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000420",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000421",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000427",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001481",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000617",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000434",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001337",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000435",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000819",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001812",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000614",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000436",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000931",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000437",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000439",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000441",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001929",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000445",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001822",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001443",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000450",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000471",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000635",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000780",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001117",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000493",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001407",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000459",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000602",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001494",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000796",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000462",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001211",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000466",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000469",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000611",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000879",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001650",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001588",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001325",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000473",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001399",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001024",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000864",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000484",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000813",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000488",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000489",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000812",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000501",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001516",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000504",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001052",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000508",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001637",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001550",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000514",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000527",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000515",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000906",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000516",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001606",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001313",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000522",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000998",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001568",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001859",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001294",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000845",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000530",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000557",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001318",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001627",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001274",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001446",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000535",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000538",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000613",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000607",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000539",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001432",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000540",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001599",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000542",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000543",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000547",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001537",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000549",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001192",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001714",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001720",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000550",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000551",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000552",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001646",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001796",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001849",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001484",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000573",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001495",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000556",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000558",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001975",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000559",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001146",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000562",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001378",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000563",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001644",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000771",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001700",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001727",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000567",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000570",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000572",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001664",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000576",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001457",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000713",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000582",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000584",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001855",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001921",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000596",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000610",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001954",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001881",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000989",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000603",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000605",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001036",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000606",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001918",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001302",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001270",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000615",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001995",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000616",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000619",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001939",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001965",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001387",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001833",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000627",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001773",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001360",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001641",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000634",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001108",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000638",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000640",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000644",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000696",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001884",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000645",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000646",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000647",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000875",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001414",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000649",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000650",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000651",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000729",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000654",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001434",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001667",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000659",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001402",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001466",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000661",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000662",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000664",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001037",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000667",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000668",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001017",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000671",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001563",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000898",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001345",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000676",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000677",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000759",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001997",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000679",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001266",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000746",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001747",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001287",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000686",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001503",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001695",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000688",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001069",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001095",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000689",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000693",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001774",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000697",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001189",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001506",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000701",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001628",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000886",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000703",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000704",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000706",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001269",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001147",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001159",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001625",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000715",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000730",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000716",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001437",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000717",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001329",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001872",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000719",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001263",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000922",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000721",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000723",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000728",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000935",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000762",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001838",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000734",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001305",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001922",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000860",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000743",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001512",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000757",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000893",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000766",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000769",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001276",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000772",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000773",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001815",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000775",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001760",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001022",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001804",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000990",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001031",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001765",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000784",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000871",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001436",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001800",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001950",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000795",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000949",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001361",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001292",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000807",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000809",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000946",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000818",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000820",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001038",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000821",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000823",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000827",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001118",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000833",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001106",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001659",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000837",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000846",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000847",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001368",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000848",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001758",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000853",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000854",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001254",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000857",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000868",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001160",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000873",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001808",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000878",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001453",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001806",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000887",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001963",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000896",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001262",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001101",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001039",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001028",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001530",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000903",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001188",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001326",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001310",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001749",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001743",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000991",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001053",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001198",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000914",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001940",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001735",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000929",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001475",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001411",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001136",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000938",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000939",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001622",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000961",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000967",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000976",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001219",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001404",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001308",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001134",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000985",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000986",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001716",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001375",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-000996",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001008",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001694",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001648",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001044",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001558",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001020",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001788",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001025",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001026",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001030",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001635",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001033",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001040",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001315",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001051",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001058",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001063",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001064",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001867",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001894",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001268",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001072",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001723",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001075",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001183",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001076",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001344",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001947",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001552",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001103",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001167",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001114",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001120",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001124",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001814",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001133",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001422",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001135",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001943",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001839",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001158",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001162",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001596",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001173",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001165",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001172",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001174",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001802",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001180",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001759",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001885",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001933",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001554",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001707",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001551",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001693",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001234",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001654",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001237",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001843",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001761",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001239",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001520",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001953",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001547",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001842",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001715",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001306",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001526",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001878",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001708",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001509",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001426",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001634",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001898",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001299",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001384",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001332",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001534",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001307",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001458",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001497",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001871",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001330",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001334",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001956",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001343",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001996",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001618",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001979",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001591",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001882",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001366",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001380",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001381",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001388",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001555",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001396",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001590",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001491",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001980",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001988",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001877",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001602",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001464",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001465",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001471",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001662",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001786",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001479",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001489",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001893",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001508",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001504",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001669",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001589",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001896",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001562",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001916",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001598",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001608",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001616",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001696",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001623",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001640",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001948",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001658",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001968",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001851",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001870",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001712",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001911",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001748",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001971",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001895",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001866",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001782",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-002000",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001857",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001830",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    },
+    {
+        "record_id":"POL-2026-001937",
+        "issue_type":"OVERLAPPING_POLICY_PERIOD",
+        "ground_truth":"ANOMALY",
+        "description":"Overlapping policy periods detected"
+    }
+]
